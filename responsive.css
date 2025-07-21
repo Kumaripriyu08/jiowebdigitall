@@ -1,0 +1,116 @@
+@media (max-width:1024px){
+    /*about srction*/
+}
+
+@media(max-width: 991px){
+    /*Custom Classes*/
+    .taxt-content{
+        width: 100%;
+
+    }
+
+.navigation-wrap{
+    text-align: center;
+    background-color: rgb(0, 35, 78);
+}
+.navigation-wrap .nav-link{
+    line-height: 1.875rem;
+}
+.top-banner{
+    padding: 9.375rem 0 9.375rem;
+    background-color: #F7E7CE;
+    text-align: center; 
+    width: 100%;
+}
+.colFirst{
+    background-color: #F7E7CE;
+}
+.team{
+    margin-top: 40px;
+    height: 110%;
+    width: 90%;
+    animation: upDown 3s ease-in-out infinite;
+    border-radius: 10px 10px 10px 10px;
+    box-shadow: 2px 2px 2px 2px rgb(102, 102, 102);
+    position: relative;
+}
+.digital{
+    width: 20rem;
+    height:25rem;
+    border-radius: 10px 10px 10px 10px;
+    box-shadow: 0px 2px 10px -1px rgb(0, 35, 78);
+}
+.colSecond{
+    padding: 7rem 0 4rem;
+    margin: 10px;
+}
+.project{
+    text-align: center;
+}
+#container {
+      width: 80%;
+      height: 380px;
+      position: relative;
+      margin: 50px auto;
+      font-size: 24px;
+      text-align: center;
+      padding: 20px;
+      background: #eee;
+      border-radius: 10px;
+      box-shadow: 0 0 10px #aaa;
+    }
+.FormFirst{
+    background-color: white;
+    width: 500px;
+    height: 550px;
+    border-radius: 10px 10px 10px 10px;
+    box-shadow: 2px 2px 2px 2px rgb(128, 123, 123);
+    padding: 4rem 0 2rem;
+    margin-left: 10px;
+}
+.form-control{
+    width: 300px;
+}
+#message{
+    width: 300px;
+}
+.btnFirst{
+    width: 300px;
+}
+.FormFirst{
+    background-color: white;
+    width: 380px;
+    height: 550px;
+    border-radius: 10px 10px 10px 10px;
+    box-shadow: 2px 2px 2px 2px rgb(128, 123, 123);
+    padding: 4rem 0 2rem;
+    margin-left: 10px;
+}
+.colThird{
+    padding: 3rem 0 2rem;
+}
+.footer-content {
+      font-size: 15px;
+      color: #b9b6b6;
+    }
+footer::before {
+      content: "";
+      display: block;
+      width: 30%;
+      height: 1px;
+      background-color: #ccc;
+      margin-left: 150px;
+      position: absolute;
+      top: 0;
+      left: 0;
+      text-align: center;
+    }
+.whatsapp-icon{
+    margin-left: 28rem;
+    -webkit-transition: all 0.3s ease-out;
+    transition: all 0.3s ease-out;
+}
+.whatsapp-icon{
+    margin-left: 300px;
+}
+}
